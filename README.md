@@ -1,8 +1,7 @@
 - 📀 Hi, I’m @charulagnihotri
-- 📀 I’m interested in all things geeky (data science in technical terms)
-- 📀 How to reach me g4yforyourmom on discord ( no but genuinely I am gay for your mom ) 
+- 📀 I’m interested in all things Data Science and Generative AI
 - 📀 Pronouns: she/ her
-- ⚡ Fun fact: I have double-jointed elbows?
+
 
 <!---
 charulagnihotri/charulagnihotri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
